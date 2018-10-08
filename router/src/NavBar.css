@@ -1,0 +1,8 @@
+.logo {
+    width: 45px;
+}
+
+.selected {
+    color: red;
+    padding: 25px;
+}
